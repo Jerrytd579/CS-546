@@ -1,7 +1,7 @@
 function checkInput(val, variableName){
     if(typeof val != 'number') throw `${variableName} is not a number`;
 }
-
+// test
 function addTwoNumbers(num1, num2){
     checkInput(num1, 'Number 1');
     checkInput(num2, 'Number 2');
