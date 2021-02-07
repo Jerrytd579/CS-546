@@ -1,10 +1,5 @@
 # Welcome to CS-546!
-Here you will find the lecture slides as well as the lecture code for each lecture.
+Here are my lecture notes and associated files for CS-546, Spring 2021
 
-## Current Semester: Spring 2020 A/B/WS Sections 
+## Current Semester: Spring 2021 A Section 
 
-
-
-### Slack
-
-We use Slack for course communication.  You will find the invitation link on Canvas in the course modules. 
