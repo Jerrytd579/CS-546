@@ -1,0 +1,15 @@
+{
+  "name": "calculator_follow_video",
+  "version": "1.0.0",
+  "description": "Following the online posted node tutorial calculator video",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Jerry Cheng",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^1.1.0"
+  }
+}
