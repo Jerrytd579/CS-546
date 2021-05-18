@@ -1,3 +1,4 @@
+// Lecture code
 const express = require('express');
 const app = express();
 const configRoutes = require('./routes');

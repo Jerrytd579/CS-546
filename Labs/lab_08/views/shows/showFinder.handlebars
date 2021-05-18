@@ -1,0 +1,15 @@
+<h1 id='titleH1'>
+    {{title}}
+</h1>
+
+<p id="description">
+    This is a form that allows you to search through the TV Maze API for a keyword.
+    Enter your tags into the form below, and then press the 'search' button to search!
+</p>
+
+<form action='/search' method='POST' id='searchForm'>
+    <label for='searchbox' id='searchLabel'>Type search term here:</label>
+    <input type='text' name='searchTerm' id='searchbox'>
+    <button type='submit' id='button'>Search</button>
+</form>
+

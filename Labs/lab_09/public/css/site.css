@@ -1,0 +1,47 @@
+.is-prime {
+    color: #00E676;
+}
+
+.not-prime {
+    color: #FF3D00;
+}
+
+body{
+    background-color: skyblue;
+    font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+}
+
+h1{
+    text-align: center;
+}
+
+#formbox{
+    background-color: whitesmoke;
+    text-align: center
+}
+
+#the_footer{
+    background-color: cornflowerblue;
+    text-align: center
+}
+
+#button{
+    background-color: goldenrod;
+    text-align: center
+}
+
+#resultsBox{
+    background-color:deepskyblue;
+}
+
+#name{
+    text-align: center;
+    background-color:blueviolet;
+    display: inline-flex;
+}
+
+#cwid{
+    text-align: center;
+    background-color: red;
+    display: inline-flex;
+}

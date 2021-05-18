@@ -1,0 +1,15 @@
+{
+  "name": "lab_03",
+  "version": "1.0.0",
+  "description": "Lab 03 CS546",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Jerry Cheng 10437904",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}

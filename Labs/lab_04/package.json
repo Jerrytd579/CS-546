@@ -1,0 +1,15 @@
+{
+  "name": "lab_04",
+  "version": "1.0.0",
+  "description": "Lab 4: MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Jerry Cheng 10437904",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.6.3"
+  }
+}

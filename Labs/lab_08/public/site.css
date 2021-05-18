@@ -1,0 +1,105 @@
+body {
+    font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+    background-image: url('maxresdefault.jpg');
+    background-size: contain;
+    color: yellow;
+}
+
+.error{
+    background-color: red;
+    color: yellow;
+    font-size:250px;
+}
+
+#titleH1{
+    background-color: aqua;
+    font-size: 200px;
+    text-align: center
+}
+
+#description{
+    font-size: 50px;
+    text-align: justify;
+    color:black;
+    background-image: url('R06df7fe3dc52aed1e9dad7e119b5644d.png');
+    background-size: contain;
+}
+
+#searchForm{
+    background-color:brown
+}
+
+#searchLabel{
+    color:aquamarine;
+    font-size: 75px;
+}
+
+#button{
+    background-color: rebeccapurple;
+    font-size: 50px;
+}
+
+#searchResultsTitle{
+    background-color: aqua;
+    font-size: 100px;
+}
+
+#searchTermTitle{
+    background-color:cornflowerblue;
+    font-size: 80px;
+}
+
+#unorderedList{
+    background-color:whitesmoke;
+}
+
+
+#newSearch{
+    background-color: goldenrod;
+    font-size: 100px;
+    text-align: center;
+}
+
+#showDiv{
+    background-image: url(vector.jpg);
+}
+
+#showName{
+    background-color: magenta;
+}
+
+#showList{
+    background-image: url(R06df7fe3dc52aed1e9dad7e119b5644d.png);
+    color: black;
+}
+
+#languageTitle{
+    background-color: red;
+}
+#languageContent{
+    background-color: white;
+}
+#genresTitle{
+    background-color:lightblue
+}
+#genresContent{
+    background-color:red;
+}
+#ratingTitle{
+    background-color:white;
+}
+#ratingContent{
+    background-color: lightblue;
+}
+#networkTitle{
+    background-color:red;
+}
+#networkContent{
+    background-color:white;
+}
+#summary{
+    background-color:lightblue;
+}
+#summaryContent{
+    background-color:red;
+}

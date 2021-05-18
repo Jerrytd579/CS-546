@@ -1,7 +1,6 @@
 const mongoCollections = require('../config/mongoCollections');
 const posts = mongoCollections.posts;
 const users = require('./users');
-const uuid = require('uuid/v4');
 
 const exportedMethods = {
   async getAllPosts() {
